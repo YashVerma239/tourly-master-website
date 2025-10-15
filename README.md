@@ -1,6 +1,4 @@
 <div align="center">
-  
-  [![YouTube Video Views](https://youtube.com/@desiwebdev?si=Xm_xEOFJcmYNbHnG)
 
   <br />
   <br />
@@ -33,7 +31,7 @@ To run **Tourly** locally, run this command on your git bash:
 
 ### Contact
 
-If you want to contact with me you can reach me at desiwebdev23@gmaol.com
+If you want to contact with me you can reach me at desiwebdev23@gmail.com
 
 ### License
 
